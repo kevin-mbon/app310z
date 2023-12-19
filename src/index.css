@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+h1{
+  color: gray;
+}
+body {
+  margin: 2rem;
+  font-family: sans-serif
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
